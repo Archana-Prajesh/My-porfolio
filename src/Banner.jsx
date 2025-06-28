@@ -3,7 +3,7 @@ import React, { useRef, useEffect } from 'react';
 import Header from './Header';
 import './Banner.css';
 
-export default function RippleBanner() {
+export default function Banner() {
   const canvasRef = useRef(null);
 
   useEffect(() => {
