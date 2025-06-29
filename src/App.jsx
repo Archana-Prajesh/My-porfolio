@@ -2,9 +2,9 @@ import React from 'react';
 import Banner from './Banner';
 function App() {
   return (
-    <>
-      <Banner />
-    </>
+        <div>
+      <h1>Hello, this is working!</h1>
+    </div>
   );
 }
 
