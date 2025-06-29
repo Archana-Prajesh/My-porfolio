@@ -4,7 +4,7 @@ function App() {
   return (
         <div>
       <h1>Welcome In React </h1>
-      <p>React is amazing Library</p>
+      <p className="text-center">React is amazing Library</p>
     </div>
   );
 }
