@@ -29,10 +29,6 @@ h1 {
   font-size: 3.2em;
   line-height: 1.1;
 }
-div#root {
-    width: 1600px;
-    margin: 0 auto;
-}
 button {
   border-radius: 8px;
   border: 1px solid transparent;
