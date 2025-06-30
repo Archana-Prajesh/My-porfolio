@@ -2,7 +2,6 @@
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
-   margin: 0 auto;
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
   background-color: #242424;
@@ -10,9 +9,11 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-   width: 1440px;
 }
-
+#root{
+width: 1440px;
+margin: 0 auto;
+}
 a {
   font-weight: 500;
   color: #646cff;
