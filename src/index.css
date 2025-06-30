@@ -51,48 +51,6 @@ button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
-/*Header css start*/
-.header {
-  display: flex;
-  justify-content:space-between;
-  align-items: center;
-  background: transparent;
-  padding: 20px 60px;
-  color: white;
-}
-.logo {
-  font-size: 1.5rem;
-}
-.logo-image{
-      width: 40px!important;
-    border-radius: 100px;
-}
-.highlight {
-  color: #f77116;
-}
-.nav{
-  width: 60%;
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
-}
-.nav a {
-  margin: 0 15px;
-  color: white;
-  text-decoration: none;
-  font-weight: 500;
-}
-.contact-number {
-  color: #ffffff;
-  display: flex;
-  align-items: center;
-  font-size: 16px;
-}
-.phone-image{
-width: 20px;
-margin: 0px 10px;
-}
-/*Header css end*/
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
