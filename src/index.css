@@ -49,7 +49,7 @@ button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 #root {
-  width: 1600px;
+  width: 1920px;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
